@@ -1,0 +1,3 @@
+[console_scripts]
+topsis = Topsis_Pranav_102003432.Pranav_102003432:main
+
