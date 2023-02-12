@@ -80,4 +80,4 @@ Information of benefit positive(+) or negative(-) impact criteria should be prov
 | M8    | 0.9        | 0.9          | 5  | 46    | 13.2 | 0.65029 | 2 |
 
 <br>
-The output file contains columns of input file along with two additional columns having **Topsis_score** and **Rank**
+The output file contains columns of input file along with two additional columns having `Topsis_score` and `Rank`
